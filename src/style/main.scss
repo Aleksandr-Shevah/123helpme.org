@@ -1,0 +1,47 @@
+/*
+* Normalize
+*/
+@import "../../bower_components/normalize.css/normalize.css";
+
+/*
+* Custom Bootstrap
+*/
+@import "../../bower_components/bootstrap.min.css";
+
+/*
+* Font-awesome
+*/
+@import "../../bower_components/font-awesome.min.css";
+
+/*
+* Slick slider
+*/
+
+@import "modules/slick";
+
+
+/*
+* Custom
+*/
+@import "partials/colors";
+@import "partials/buttons";
+@import "partials/fonts";
+@import "partials/taxonomies";
+
+
+/*
+* Views
+*/
+@import "views/head";
+@import "views/head-internal";
+@import "views/main";
+@import "views/footer";
+@import "views/about-us";
+@import "views/guarantees";
+@import "views/contact";
+@import "views/blog";
+@import "views/head-blog";
+@import "views/faq";
+
+
+
